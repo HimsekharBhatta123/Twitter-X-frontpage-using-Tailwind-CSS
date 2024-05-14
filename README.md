@@ -1,0 +1,1 @@
+This is Twitter X homepage that is designed with the help of Tailwind CSS. It is just a practice to learn Tailwind Css  by cloning Twitter X homepage.
